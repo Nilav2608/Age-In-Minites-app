@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFA938</color>
+    <color name="yellow.1">#FFA938</color>
+    <color name="purple_700">#D81B60</color>
+    <color name="teal_200">#844046</color>
+    <color name="backgroundclolor">#FFEBD2</color>
+    <color name="Agebackgroundcolor">#C846DCE0</color>
+    <color name="agetextcolor">#FFFFFF</color>
+    <color name="backgroundofSelectDate">#DAD6D6</color>
+    <color name="Bgofselectdate">#000000</color>
+    <color name="lightGrayTextColor">#B7B7B7</color>
+</resources>
